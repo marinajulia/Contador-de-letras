@@ -1,0 +1,19 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    background-color: #006064;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    width: 100%;
+    padding-top: 16px;
+    height: 56px;
+    margin-top: 0px;
+    padding-left: 16px;
+    text-align: left;
+    font-weight: 400;
+}
